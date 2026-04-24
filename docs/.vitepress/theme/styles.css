@@ -19,6 +19,12 @@
   --vp-c-brand-3: #00305e;
 }
 
+.dark {
+  --vp-c-brand-1: #eb7245;
+  --vp-c-brand-2: #e08665;
+  --vp-c-brand-3: #eb7245;
+}
+
 .VPHero .image,
 .VPHero .image-container {
   max-width: none !important;
