@@ -1,3 +1,6 @@
 docs/.vitepress/dist
 docs/.vitepress/cache
 context/
+node_modules/
+dist/
+.vitepress/cache/
