@@ -1,5 +1,8 @@
 # EarthCODE
 
+![EarthCODE](/EarthCODE_ESA_banner.jpg)
+*Image source: https://earthcode.esa.int*
+
 [EarthCODE](https://earthcode.esa.int/) is [ESA](https://www.esa.int/)'s strategic initiative for open Earth Observation science. It supports the discovery, publication, and reuse of research outputs from ESA science activities, with a strong emphasis on FAIR principles: findability, accessibility, interoperability, and reusability.
 
 The platform brings together open research data, open-source scientific code, reproducible workflows, documentation, and community resources. Its goal is to help Earth Observation researchers share results in ways that are transparent, reusable, and ready to support further scientific work.
