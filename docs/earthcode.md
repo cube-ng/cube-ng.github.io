@@ -1,6 +1,6 @@
 # EarthCODE
 
-![EarthCODE](/EarthCODE_ESA_banner.jpg)
+![EarthCODE](./public/EarthCODE_ESA_banner.jpg)
 *Image source: https://earthcode.esa.int*
 
 
