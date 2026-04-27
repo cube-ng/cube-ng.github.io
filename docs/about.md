@@ -14,7 +14,7 @@ Many Earth observation products contain systematic gaps by cloud cover, orbital 
 
 - reconstruct missing values in multivariate spatiotemporal Earth system datasets,
 - preserve spatial, temporal, and cross-variable relationships,
-- support analysis-ready Earth System Data Cubes,
+- support analysis-ready Earth System Data Cubes (ESDCs),
 - improve reconstruction and forecasting, especially under anomalous and extreme conditions.
 
 ## Scientific focus
