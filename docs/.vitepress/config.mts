@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "cube.ng",
+  base: 'cube-ng.github.io',
   description: "Official site of the cube.ng project",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
