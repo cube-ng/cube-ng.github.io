@@ -6,6 +6,10 @@ Here you will find scientific outputs directly associated with **cube.ng** and h
 
 - Zimmer, C., Umlauft, J., Kraemer, G., Montero, D., & Mahecha, M. D. (2026). Gap-Aware Transformer-Based Foundation Model Pretraining for Spatiotemporal Earth Observation Data. Copernicus GmbH. https://doi.org/10.5194/egusphere-egu26-7697
 
+## Publications acknowledging cube.ng
+
+- Montero, D., Aybar, C., Mahecha, M. D., & Gómez-Chova, L. (2026). Towards an open registry of Earth observation instruments. [Preprint]. https://doi.org/10.48550/ARXIV.2606.13923
+
 ## Related background literature
 
 The project is grounded in earlier work on Earth System Data Cubes (ESDCs), gap filling, and AI. Key references include:

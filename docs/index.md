@@ -44,9 +44,8 @@ features:
     linkText: Explore our science cases
 ---
 
----
 
-### Funding Information
+## Funding Information
 
 **cube.ng** is a research project led by **Leipzig University** and **funded by the European Space Agency (ESA)**.
 
